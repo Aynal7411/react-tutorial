@@ -7,3 +7,5 @@ next: cd blog-app
 next :npm run android
 
 if no installed android studio use npm run web command
+
+next use expo go(download your android mobile)
